@@ -1,4 +1,4 @@
 {
-  "origins": ["https://j4ke.io", "http://localhost:3000"],
+  "origins": ["https://j4ke.io"],
   "defaultCommentOrder": "oldest"
 }
